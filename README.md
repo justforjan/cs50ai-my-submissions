@@ -63,8 +63,8 @@ class MinesweeperAI
 
 ## Uncertainty
 ### heredity
-
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/2/heredity/
+
 Short description:
 > Write an AI to assess the likelihood that a person will have a particular genetic trait.
 
