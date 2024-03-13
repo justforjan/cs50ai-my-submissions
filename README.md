@@ -10,6 +10,7 @@ In most cases the coursemakers provided a template file. The course taker is the
 ## Search
 ### degrees
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/0/degrees/
+
 Short description:
 > Write a program that determines how many “degrees of separation” apart two actors are.
 
@@ -18,6 +19,7 @@ Functions implemented by me:
 
 ### tictactoe
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/0/tictactoe/
+
 Short description:
 > Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
@@ -34,6 +36,7 @@ Functions implemented by me:
 ## Knowledge
 ### knights
 Link to assignment: [https://cs50.harvard.edu/ai/2024/projects/0/tictactoe/](https://cs50.harvard.edu/ai/2024/projects/1/knights/)
+
 Short description:
 > Write a program to solve logic puzzles.
 
@@ -41,6 +44,7 @@ Here, we were tasked with adding logical sentences to the knoweldge base
 
 ### minesweeper
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/1/minesweeper/
+
 Short description:
 > Write an AI to play Minesweeper.
 
@@ -59,6 +63,7 @@ class MinesweeperAI
 
 ## Uncertainty
 ### heredity
+
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/2/heredity/
 Short description:
 > Write an AI to assess the likelihood that a person will have a particular genetic trait.
@@ -70,6 +75,7 @@ Functions implemented by me:
 
 ### pagerank
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/2/pagerank/
+
 Short description:
 > Write an AI to rank web pages by importance.
 
@@ -81,6 +87,7 @@ Functions implemented by me:
 ## Optimization
 ### crossword
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/3/crossword/
+
 Short description:
 > Write an AI to generate crossword puzzles.
 
