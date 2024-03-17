@@ -100,3 +100,28 @@ Functions implemented by me:
 - order_domain_values
 - select_unassigned_variable
 - backtrack
+
+
+## Learn
+### nim
+Link to assignment: https://cs50.harvard.edu/ai/2024/projects/4/nim/
+
+Short description:
+> Write an AI that teaches itself to play Nim through reinforcement learning.
+
+Functions implemented by me:
+- get_q_value
+- update_q_value
+- best_future_reward
+- chose_action
+
+### shopping
+Link to assignment: https://cs50.harvard.edu/ai/2024/projects/4/shopping/
+
+Short description:
+> Write an AI to predict whether online shopping customers will complete a purchase.
+
+Functions implemented by me:
+- load_data
+- train_model
+- evaluate
