@@ -125,3 +125,14 @@ Functions implemented by me:
 - load_data
 - train_model
 - evaluate
+
+## Neural Networks
+### traffic
+Link to assignment: https://cs50.harvard.edu/ai/2024/projects/5/traffic/
+
+Short description:
+> Write an AI to identify which traffic sign appears in a photograph.
+
+Functions implemented by me:
+- load_data
+- get_model
