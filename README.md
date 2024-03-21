@@ -1,5 +1,5 @@
 # My submissions for CS50AI
-My submissions for the Introduction to Artificual Intelligence course CS50AI by Harvard - https://cs50.harvard.edu/ai/2024/
+My submissions for the Introduction to Artificial Intelligence course CS50AI by Harvard - https://cs50.harvard.edu/ai/2024/
 
 
 Work in Progess - I am still working on the course's assignments.
