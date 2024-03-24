@@ -5,9 +5,33 @@ My submissions for the Introduction to Artificial Intelligence course CS50AI by 
 Course finished on 2024-03-24! :tada:
 
 
-In most cases the coursemakers provided a template file. The course taker is then asked to write certain functions. What follows are list of functions that I had to write for each assignment:
+In most cases the coursemakers provided a template file. The course taker is then asked to write certain functions. What follows are list of functions that I had to write for each assignment.
 
-## Search
+
+- [My submissions for CS50AI](#my-submissions-for-cs50ai)
+  - [Week 0 - Search](#week-0---search)
+    - [degrees](#degrees)
+    - [tictactoe](#tictactoe)
+  - [Week 1 - Knowledge](#week-1---knowledge)
+    - [knights](#knights)
+    - [minesweeper](#minesweeper)
+  - [Week 2 - Uncertainty](#week-2---uncertainty)
+    - [heredity](#heredity)
+    - [pagerank](#pagerank)
+  - [Week 3 - Optimization](#week-3---optimization)
+    - [crossword](#crossword)
+  - [Week 4 - Learn](#week-4---learn)
+    - [nim](#nim)
+    - [shopping](#shopping)
+  - [Week 5 - Neural Networks](#week-5---neural-networks)
+    - [traffic](#traffic)
+  - [Week 6 - Language](#week-6---language)
+    - [parser](#parser)
+    - [attention](#attention)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+## Week 0 - Search
 ### degrees
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/0/degrees/
 
@@ -33,7 +57,7 @@ Functions implemented by me:
 - minimax
 
 
-## Knowledge
+## Week 1 - Knowledge
 ### knights
 Link to assignment: [https://cs50.harvard.edu/ai/2024/projects/0/tictactoe/](https://cs50.harvard.edu/ai/2024/projects/1/knights/)
 
@@ -61,7 +85,7 @@ class MinesweeperAI
 - make_random_move
 
 
-## Uncertainty
+## Week 2 - Uncertainty
 ### heredity
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/2/heredity/
 
@@ -84,7 +108,7 @@ Functions implemented by me:
 - sample_pagerank
 - iterate_pagerank
 
-## Optimization
+## Week 3 - Optimization
 ### crossword
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/3/crossword/
 
@@ -102,7 +126,7 @@ Functions implemented by me:
 - backtrack
 
 
-## Learn
+## Week 4 - Learn
 ### nim
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/4/nim/
 
@@ -126,7 +150,7 @@ Functions implemented by me:
 - train_model
 - evaluate
 
-## Neural Networks
+## Week 5 - Neural Networks
 ### traffic
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/5/traffic/
 
@@ -138,7 +162,7 @@ Functions implemented by me:
 - get_model
 
 
-## Language
+## Week 6 - Language
 ### parser
 Link to assignment: https://cs50.harvard.edu/ai/2024/projects/6/parser/
 
