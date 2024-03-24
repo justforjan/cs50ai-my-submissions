@@ -2,7 +2,7 @@
 My submissions for the Introduction to Artificial Intelligence course CS50AI by Harvard - https://cs50.harvard.edu/ai/2024/
 
 
-Work in Progess - I am still working on the course's assignments.
+Course finished on 2024-03-24! :tada:
 
 
 In most cases the coursemakers provided a template file. The course taker is then asked to write certain functions. What follows are list of functions that I had to write for each assignment:
@@ -136,3 +136,28 @@ Short description:
 Functions implemented by me:
 - load_data
 - get_model
+
+
+## Language
+### parser
+Link to assignment: https://cs50.harvard.edu/ai/2024/projects/6/parser/
+
+Short description:
+> Write an AI to parse sentences and extract noun phrases.
+
+Functions implemented by me:
+- preprocess
+- np_chung
+
+Additionally, I was tasked with providing the NONTERMINAL of the context-free grammer
+
+### attention
+Link to assigment: https://cs50.harvard.edu/ai/2024/projects/6/attention/
+
+Short description:
+> Write an AI to predict a masked word in a text sequence.
+
+Functions implemented by me:
+- get_mask_token_index
+- get_color_for_attention_score
+- visualize_attentions
