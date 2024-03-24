@@ -29,7 +29,6 @@ In most cases the coursemakers provided a template file. The course taker is the
     - [parser](#parser)
     - [attention](#attention)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Week 0 - Search
 ### degrees
